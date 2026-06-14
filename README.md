@@ -6,18 +6,10 @@ Make your grocery management easier and more organized with a simple and efficie
 
 ## 📦 Installation
 
-Follow the steps below to install and run the app:
+## clone-repo
 
-```bash
-# 1. Download or clone the repository
-git clone <repository-url>
-
-# 2. Navigate into the project directory
-cd Grocery-Manager-App
-
-# 3. Go to the Android build folder
-cd android
-
-# 4. Install the APK
-adb install app-release.apk
-
+1. Extract the ZIP file  
+2. Open the folder named **"Grocery 1.0"**  
+3. Go into the **android** directory  
+4. Install **app-release.apk**  
+5. All set — Enjoy!
