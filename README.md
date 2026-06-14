@@ -6,8 +6,6 @@ Make your grocery management easier and more organized with a simple and efficie
 
 ## 📦 Installation
 
-## clone-repo
-
 1. Extract the ZIP file  
 2. Open the folder named **"Grocery 1.0"**  
 3. Go into the **android** directory  
